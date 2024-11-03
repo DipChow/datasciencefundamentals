@@ -1,4 +1,7 @@
-# The statistical tests t-test, ANOVA, and chi-square are used in different situations, depending on the type of data and what you want to compare: 
+## When to use T-Test, ANOVA, and Chi-Square
+
+
+The statistical tests t-test, ANOVA, and chi-square are used in different situations, depending on the type of data and what you want to compare: 
 
 ### T-test
 Used to compare the means of two samples. For example, you might use a t-test to compare the average heights of men and women. 
